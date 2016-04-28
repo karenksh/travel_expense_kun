@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Travel Expense</string>
+    <string name="title_activity_expense_map">Map</string>
+</resources>
